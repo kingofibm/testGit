@@ -102,6 +102,13 @@
       <eAnnotations xmi:id="_dVHdeH3sEeOtlqm178aUhA" source="RSA_ElementImport"/>
       <importedPackage xmi:type="uml:Model" href="pathmap://RT_UAL_LIBRARIES/UALRTServices.emx#_b1_uIlfDEd2HSOfPwnrW3g?UALRTServices?"/>
     </packageImport>
+    <packagedElement xmi:type="uml:Package" xmi:id="_aQvMgH30EeOtlqm178aUhA" name="Package1">
+      <eAnnotations xmi:id="_aSPBUH30EeOtlqm178aUhA" source="uml2.diagrams" references="_aSPoYH30EeOtlqm178aUhA">
+        <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_aSPoYH30EeOtlqm178aUhA" type="Freeform" name="Main">
+          <element xsi:nil="true"/>
+        </contents>
+      </eAnnotations>
+    </packagedElement>
     <profileApplication xmi:id="_dVHdeX3sEeOtlqm178aUhA">
       <eAnnotations xmi:id="_dVHden3sEeOtlqm178aUhA" source="http://www.eclipse.org/uml2/2.0.0/UML">
         <references xmi:type="ecore:EPackage" href="pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w"/>
