@@ -131,6 +131,19 @@
             <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_YIB-IH31EeOtlqm178aUhA" visible="false" type="StructureCompartment"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YH7QcX31EeOtlqm178aUhA" x="9271" y="2751"/>
           </children>
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_bTTqgH35EeOtlqm178aUhA" element="_bTOK8H35EeOtlqm178aUhA" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_bTVfsH35EeOtlqm178aUhA" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_bTVfsX35EeOtlqm178aUhA" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_bTWGwH35EeOtlqm178aUhA" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_bTWt0H35EeOtlqm178aUhA" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_bTXU4H35EeOtlqm178aUhA" type="Parent"/>
+            <children xmi:type="notation:SemanticListCompartment" xmi:id="_bTXU4X35EeOtlqm178aUhA" type="AttributeCompartment"/>
+            <children xmi:type="notation:SemanticListCompartment" xmi:id="_bTX78H35EeOtlqm178aUhA" type="OperationCompartment"/>
+            <children xmi:type="notation:SemanticListCompartment" xmi:id="_bTYjAH35EeOtlqm178aUhA" visible="false" type="SignalCompartment"/>
+            <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_bTZKEH35EeOtlqm178aUhA" visible="false" type="StructureCompartment"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bTTqgX35EeOtlqm178aUhA" x="4699" y="5185"/>
+          </children>
           <element xsi:nil="true"/>
           <edges xmi:type="umlnotation:UMLConnector" xmi:id="_ZutBAH31EeOtlqm178aUhA" element="_ZuBrkH31EeOtlqm178aUhA" source="_XaHvQH31EeOtlqm178aUhA" target="_YH7QcH31EeOtlqm178aUhA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
             <children xmi:type="notation:DecorationNode" xmi:id="_ZuwEUH31EeOtlqm178aUhA" type="NameLabel">
@@ -146,6 +159,7 @@
         <generalization xmi:id="_ZuBrkH31EeOtlqm178aUhA" general="_YH1w4H31EeOtlqm178aUhA"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_YH1w4H31EeOtlqm178aUhA" name="Class2"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_bTOK8H35EeOtlqm178aUhA" name="Class3"/>
     </packagedElement>
     <profileApplication xmi:id="_dVHdeX3sEeOtlqm178aUhA">
       <eAnnotations xmi:id="_dVHden3sEeOtlqm178aUhA" source="http://www.eclipse.org/uml2/2.0.0/UML">
